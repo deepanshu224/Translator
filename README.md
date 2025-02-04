@@ -86,6 +86,7 @@ POST /translate
 - If not found, it **fetches the translation from the API** and stores it in Redis.
 - Translations are cached for **24 hours** to optimize performance.
 
-
+## TranslateAPI using Google Apps Script
+![Image](https://github.com/user-attachments/assets/00e95212-db3e-445f-b1b0-fc6ea7491ec6)
 
  
